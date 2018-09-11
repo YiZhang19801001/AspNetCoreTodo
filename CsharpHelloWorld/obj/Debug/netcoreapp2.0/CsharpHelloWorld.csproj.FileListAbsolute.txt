@@ -1,0 +1,11 @@
+C:\Users\yi\Desktop\my_projects\project_Daily_Planer\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.deps.json
+C:\Users\yi\Desktop\my_projects\project_Daily_Planer\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.runtimeconfig.json
+C:\Users\yi\Desktop\my_projects\project_Daily_Planer\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.runtimeconfig.dev.json
+C:\Users\yi\Desktop\my_projects\project_Daily_Planer\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.dll
+C:\Users\yi\Desktop\my_projects\project_Daily_Planer\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.pdb
+C:\Users\yi\Desktop\my_projects\project_Daily_Planer\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.csprojAssemblyReference.cache
+C:\Users\yi\Desktop\my_projects\project_Daily_Planer\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\yi\Desktop\my_projects\project_Daily_Planer\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.AssemblyInfoInputs.cache
+C:\Users\yi\Desktop\my_projects\project_Daily_Planer\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.AssemblyInfo.cs
+C:\Users\yi\Desktop\my_projects\project_Daily_Planer\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.dll
+C:\Users\yi\Desktop\my_projects\project_Daily_Planer\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.pdb
